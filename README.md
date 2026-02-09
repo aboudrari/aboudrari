@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi I'm Abdallah :
 I am a curious and highly motivated learner who is starting a journey into Machine Learning with a strong focus on building solid fundamentals. I prefer learning through hands-on projects rather than only theoretical study, and I aim to understand why each step is done, not just how.<br><br>At this stage, I am mainly working on classification problems, using real-world datasets to practice the full machine learning workflow: data exploration, preprocessing, feature encoding, model training, and evaluation. I primarily work with Python and common data science libraries such as pandas, NumPy, and scikit-learn.<br><br>My goal is to build a strong foundation before moving on to more advanced topics. I value clarity, consistency, and practical understanding, and I enjoy experimenting with different models to learn their strengths and limitations.<br><br>This GitHub repository documents my learning process, projects, and progress as I continue to grow my skills in machine learning and data analysis.
 
 
